@@ -1,0 +1,1 @@
+The goal of the project is to distinguish between healthy individuals and those with Parkinson’s disease based on recorded audio features. The problem addressed is a binary classification task. For more details read the report.
